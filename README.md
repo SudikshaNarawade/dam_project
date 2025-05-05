@@ -87,20 +87,3 @@ You can deploy this app for free using [Streamlit Cloud](https://streamlit.io/cl
 * [ ] Improve risk prediction using LSTM or time-series modeling
 * [ ] Add authentication for private uploads
 * [ ] Connect with real-time wearable APIs
-
-## 🙌 Acknowledgments
-
-* [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
-* [Fitbit Open Data](https://www.fitabase.com)
-
----
-
-**Author**: Your Name
-**License**: MIT
-
-```
-
----
-
-Let me know if you'd like me to include this in your project zip file or help rewrite it for a presentation or report.
-```
