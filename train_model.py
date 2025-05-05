@@ -18,5 +18,11 @@ X_scaled = scaler.fit_transform(X)
 model = RandomForestClassifier(n_estimators=100, random_state=42)
 model.fit(X_scaled, y)
 
+import os
+
+# Ensure models directory exists
+os.makedirs("models", exist_ok=True)
+
 # Save model
 joblib.dump(model, 'models/risk_model.pkl')
+print("Model saved successfully to models/risk_model.pkl")
