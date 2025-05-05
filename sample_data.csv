@@ -1,0 +1,5 @@
+timestamp,heart_rate,steps,sleep_hours,risk_level
+2024-04-01 08:00,85,1200,6.5,Medium
+2024-04-01 12:00,92,300,5.0,High
+2024-04-01 16:00,78,2500,7.0,Low
+2024-04-02 08:00,88,1400,6.2,Medium
